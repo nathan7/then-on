@@ -1,0 +1,23 @@
+{
+  "name": "then-on",
+  "version": "1.0.0",
+  "description": "promises for events",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/then-on.git"
+  },
+  "keywords": [
+    "promise",
+    "events"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan7/then-on/issues"
+  },
+  "homepage": "https://github.com/nathan7/then-on",
+  "dependencies": {
+    "promise": "^5.0.0"
+  }
+}
